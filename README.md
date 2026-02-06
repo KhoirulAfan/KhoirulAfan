@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhoirulAfan&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoirulAfan&layout=compact" height="150" />
-</p>
+
 
 ---
 
